@@ -2,6 +2,14 @@
 
 A modern React application that allows users to create professional portfolios by selecting templates, filling out detailed forms, and generating beautiful portfolio websites.
 
+
+## 🎥 Preview
+
+![Home Page](./public/home.png)
+![Create Portfolio](./public/create.png)
+![Edit Portfolio](./public/list.png)
+![View Portfolio](./public/final.png)
+
 ## 🚀 Features
 
 ### Core Functionality
