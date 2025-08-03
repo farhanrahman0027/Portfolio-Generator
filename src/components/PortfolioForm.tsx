@@ -586,7 +586,7 @@ const PortfolioForm: React.FC = () => {
         <div className="max-w-4xl mx-auto px-4 py-8">
           <div className="text-center mb-6">
             <h1 className="text-3xl font-bold text-gray-900 mb-2">Create Your Portfolio</h1>
-            <p className="text-gray-600">Fill out the form to generate your professional portfolio</p>
+            <p className="text-gray-500">Fill out the form to generate your professional portfolio</p>
           </div>
           
           <div className="flex items-center justify-between">
